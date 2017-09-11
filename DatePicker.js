@@ -155,6 +155,9 @@ let styles = StyleSheet.create({
     height: 150,
     width: null,
     flex: 1,
+    backgroundColor: 'yellow',
+    borderRightWidth: 1.,
+    borderRightColor: 'red'
   },
   dateWheelPicker: {
     height: 200,
